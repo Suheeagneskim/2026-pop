@@ -155,5 +155,9 @@ def main():
 
     st.caption("데이터: 2026년 6월 주민등록 연령별 인구현황 (행정구역별, 계/남/여)")
 
+streamlit
+pandas
+plotly
+
 if __name__ == "__main__":
     main()
